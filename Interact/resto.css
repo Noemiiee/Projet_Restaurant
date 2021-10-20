@@ -1,0 +1,23 @@
+body{
+    background-color: #73C290 ;
+    color: white ;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
+.bouton{
+    background-color: red;
+    color : white;
+    border : 5px white;
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.bouton:hover{
+    cursor : pointer;
+}
+
